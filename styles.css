@@ -1,0 +1,79 @@
+
+
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .right {
+    flex-basis: 16%;
+}
+
+.left-image {
+    width: 24px;
+    margin-right: 5px; /* Add some space between the image and the text */
+}
+
+.right-image {
+    width: 24px;
+    margin-left: 5px; /* Add some space between the image and the text */
+}
+
+
+
+
+
+
+
+.profile{
+    color: #20b2aa; 
+    font-weight: bold;
+    text-align: center; 
+    font-size: 22px; 
+}
+
+
+
+p {
+    font-size: 19px; /* Increase the font size */
+}
+
+li {
+    font-size: 18px; /* Increase the font size */
+}
+
+.highlight {
+    color: #20b2aa;
+    font-weight: bold; /* Set the font weight to bold */
+}
+.highlight1 {
+    font-weight: bold; /* Set the font weight to bold */
+}
+
+.spacer {
+    display: inline-block; /* Ensures the element respects the set width */
+    width: 120px; /* Adjust the width as needed for equal spacing */
+}
+p {
+    padding-left: 30px; /* Adjust the padding value as needed */
+}
+
+
+.spacer1 {
+    display: inline-block; /* Ensures the element respects the set width */
+    width: 245px; /* Adjust the width as needed for equal spacing */
+}
+
+.container {
+    width: 100%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
